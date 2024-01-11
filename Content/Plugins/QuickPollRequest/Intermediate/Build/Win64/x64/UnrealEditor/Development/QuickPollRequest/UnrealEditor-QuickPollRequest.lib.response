@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-QuickPollRequest.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Leonor\Documents\GitHub\Project-1-\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Leonor\Documents\GitHub\Project-1-\Plugins\QuickPollRequest\Intermediate\Build\Win64\x64\UnrealEditor\Development\QuickPollRequest\Module.QuickPollRequest.cpp.obj"
+"C:\Users\Leonor\Documents\GitHub\Project-1-\Plugins\QuickPollRequest\Intermediate\Build\Win64\x64\UnrealEditor\Development\QuickPollRequest\Default.rc2.res"
+/OUT:"C:\Users\Leonor\Documents\GitHub\Project-1-\Plugins\QuickPollRequest\Intermediate\Build\Win64\x64\UnrealEditor\Development\QuickPollRequest\UnrealEditor-QuickPollRequest.lib"

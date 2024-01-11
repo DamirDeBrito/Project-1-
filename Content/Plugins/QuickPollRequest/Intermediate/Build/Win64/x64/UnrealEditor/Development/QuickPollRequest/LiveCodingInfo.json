@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.QuickPollRequest.cpp.obj": [
+			"QuickPollDataRequestSubsystem.gen.cpp.obj",
+			"QuickPollRequest.init.gen.cpp.obj",
+			"QuickPollDataRequestSubsystem.cpp.obj",
+			"QuickPollRequest.cpp.obj"
+		]
+	}
+}
